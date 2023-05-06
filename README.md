@@ -8,14 +8,18 @@
 
 ### 网课
 台大教授李宏毅机器学习课程：<https://www.bilibili.com/video/BV1TD4y137mP/?share_source=copy_web&vd_source=caea3069a97154cbfbfc53254bb144bc>
-非常有趣的老师，每年都会更新课件，课程内容与时下潮流结合紧密。
+真的非常有趣的老师，每年都会更新课件，课程内容与时下潮流结合紧密。
 
 ### 网页连接
 机器学习的python实现<https://github.com/lawlite19/MachineLearning_Python>
 
 
 ## 深度学习
+### 经典学习课本
+深度学习花书：<https://github.com/exacity/deeplearningbook-chinese>。谁用谁知道，不会有学深度学习还不知道这本书存在的人。
+
+
 ### 网课
 吴恩达深度学习课程资源：<https://www.jiqizhixin.com/articles/2018-06-21-6>
 
-
+### 网页连接
