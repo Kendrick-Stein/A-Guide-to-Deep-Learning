@@ -71,7 +71,7 @@ CS231n 斯坦福李飞飞 <https://www.bilibili.com/video/BV1Yt41157Lb/?spm_id_f
 
 github传不了 好吧 大家用百度网盘下载吧
 
-#感谢
+# 感谢
   感谢MCISLAB成员在编辑此文档过程中的付出
 
 
