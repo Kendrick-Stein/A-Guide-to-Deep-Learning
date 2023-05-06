@@ -30,9 +30,7 @@
 在这个pytorch横着走的时代，再去学习tensorflow是有一点点违背常识的，但是这个老师也开设一样的tensorflow的教程，也很简单，可以跟着学。毕竟你不能保证你的baseline方法不用tensorflow吧。
 
 PyTorch深度学习快速入门教程
-<https://www.bilibili.com/video/BV1hE411t7RN/?spm_id_from=333.337.search-card.all.click&vd_source=844ad07321d141efd2925ef87faf5326
-![image](https://user-images.githubusercontent.com/85158648/236624562-e680e4d8-52ad-469a-b451-8bf31f4f9de2.png)>
-
+<https://www.bilibili.com/video/BV1hE411t7RN/?spm_id_from=333.337.search-card.all.click&vd_source=844ad07321d141efd2925ef87faf5326>
 
 ## 计算机视觉
 cs231n计算机视觉<https://www.bilibili.com/video/BV1nJ411z7fe/?spm_id_from=333.337.search-card.all.click>李飞飞
