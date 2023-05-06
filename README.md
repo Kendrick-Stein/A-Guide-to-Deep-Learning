@@ -60,8 +60,7 @@ cv实战up主-同济子豪兄<https://space.bilibili.com/1900783?spm_id_from=333
 CS231n 斯坦福李飞飞 <https://www.bilibili.com/video/BV1Yt41157Lb/?spm_id_from=333.999.0.0&vd_source=844ad07321d141efd2925ef87faf5326![image](https://user-images.githubusercontent.com/85158648/236624551-bf1c9577-2173-4e4b-90da-e892d6ce2ca9.png)
 
 晓唦带你读《动手学深度学习》(PyTorch版)
-<https://www.bilibili.com/video/BV1HJ41177E9/?spm_id_from=333.999.0.0&vd_source=844ad07321d141efd2925ef87faf5326
-![image](https://user-images.githubusercontent.com/85158648/236624609-8654adf3-ace1-4325-aad5-5c936d3d365e.png)>
+<https://www.bilibili.com/video/BV1HJ41177E9/?spm_id_from=333.999.0.0&vd_source=844ad07321d141efd2925ef87faf5326![image](https://user-images.githubusercontent.com/85158648/236624609-8654adf3-ace1-4325-aad5-5c936d3d365e.png)>
 
 
 
