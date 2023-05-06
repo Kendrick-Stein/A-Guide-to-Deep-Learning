@@ -15,8 +15,12 @@
 ## 深度学习
 深度学习花书：<https://github.com/exacity/deeplearningbook-chinese>。谁用谁知道，不会有学深度学习还不知道这本书存在的人。
 
-吴恩达深度学习课程资源：<https://www.jiqizhixin.com/articles/2018-06-21-6> <https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes>
-<https://www.bilibili.com/video/BV19B4y1W76i/?spm_id_from=333.999.0.0>
+吴恩达深度学习课程资源：\\
+<https://www.jiqizhixin.com/articles/2018-06-21-6> \\
+<https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes>\\
+<https://www.bilibili.com/video/BV19B4y1W76i/?spm_id_from=333.999.0.0>\\
+<https://www.bilibili.com/video/BV1w741147Ac/?spm_id_from=333.999.0.0&vd_source=844ad07321d141efd2925ef87faf5326![image](https://user-images.githubusercontent.com/85158648/236624428-4e8c3222-65a9-4794-b4a9-60e269f4f309.png)>
+
 
 ## 深度学习框架Pytorch
 【深度学习Pytorch入门】5天从Pytorch入门到实战！Pytorch深度学习快速入门教程150全集！草履虫都学的会！】<https://www.bilibili.com/video/BV19v4y1G77H/?share_source=copy_web&vd_source=caea3069a97154cbfbfc53254bb144bc> 这个龙良曲老师讲的非常的好，真的是草履虫都能学会，再不跟着学真的很过分了。
