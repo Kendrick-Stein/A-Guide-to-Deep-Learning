@@ -6,3 +6,11 @@
 ### 经典学习课本
 周志华西瓜书：<https://pan.baidu.com/s/1hscnaQC>。机器入门最经典的学习资料，包括比较全面的推导，浅显易懂，适合全文阅读。
 
+### 网课
+台大教授李宏毅机器学习课程：<https://www.bilibili.com/video/BV1TD4y137mP/?share_source=copy_web&vd_source=caea3069a97154cbfbfc53254bb144bc>
+
+## 深度学习
+### 网课
+吴恩达深度学习课程资源：<https://www.jiqizhixin.com/articles/2018-06-21-6>
+
+
