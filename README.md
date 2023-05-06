@@ -52,7 +52,7 @@ CVer，机市平台，PaperWeekly
 
 啥都会一点的研究生 <https://space.bilibili.com/46880349/?spm_id_from=333.999.0.0
 ![Uploading image.png…]()>
-
+  
 cv实战up主-同济子豪兄<https://space.bilibili.com/1900783?spm_id_from=333.337.search-card.all.click>
 
 CS231n 斯坦福李飞飞 <https://www.bilibili.com/video/BV1Yt41157Lb/?spm_id_from=333.999.0.0&vd_source=844ad07321d141efd2925ef87faf5326![image](https://user-images.githubusercontent.com/85158648/236624551-bf1c9577-2173-4e4b-90da-e892d6ce2ca9.png)
@@ -70,6 +70,9 @@ CS231n 斯坦福李飞飞 <https://www.bilibili.com/video/BV1Yt41157Lb/?spm_id_f
 复制这段内容打开「百度网盘APP 即可获取」
 
 github传不了 好吧 大家用百度网盘下载吧
+
+#感谢
+  感谢MCISLAB成员在编辑此文档过程中的付出
 
 
 
