@@ -63,6 +63,15 @@ CS231n 斯坦福李飞飞 <https://www.bilibili.com/video/BV1Yt41157Lb/?spm_id_f
 <https://www.bilibili.com/video/BV1HJ41177E9/?spm_id_from=333.999.0.0&vd_source=844ad07321d141efd2925ef87faf5326![image](https://user-images.githubusercontent.com/85158648/236624609-8654adf3-ace1-4325-aad5-5c936d3d365e.png)>
 
 
+# 工具书
+这里主要是一些常用的工具书
+
+通过百度网盘分享的文件：Book
+链接：https://pan.baidu.com/s/1wrZcPjZ9IxmH_ibZ3PEoAw?pwd=8y6k 
+提取码：8y6k 
+复制这段内容打开「百度网盘APP 即可获取」
+
+github传不了 好吧 大家用百度网盘下载吧
 
 
 
