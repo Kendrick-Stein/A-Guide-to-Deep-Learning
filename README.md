@@ -25,7 +25,18 @@
 ## 计算机视觉
 cs231n计算机视觉<https://www.bilibili.com/video/BV1nJ411z7fe/?spm_id_from=333.337.search-card.all.click>李飞飞
 
+## 论文
+关注CVPR，ICCV，Neurips，AAAI等顶会顶刊论文
+网站：<https://openaccess.thecvf.com/menu>
+
+## 微信公众号
+很多微信公众号都会对时新论文进行解读，同时会定期做推荐，是当下非常便捷有效的获取信息的方式。刷手机的时间就可以看一看，了解一下总比不知道强。
+
+
 ## 其他
 论文讲解up主-跟李沐学AI<https://space.bilibili.com/1567748478>
+
 cv实战up主-同济子豪兄<https://space.bilibili.com/1900783?spm_id_from=333.337.search-card.all.click>
+
+
 
