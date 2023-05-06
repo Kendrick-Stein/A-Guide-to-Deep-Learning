@@ -23,3 +23,7 @@
 吴恩达深度学习课程资源：<https://www.jiqizhixin.com/articles/2018-06-21-6>
 
 ### 网页连接
+
+## 深度学习框架Pytorch
+【深度学习Pytorch入门】5天从Pytorch入门到实战！Pytorch深度学习快速入门教程150全集！草履虫都学的会！】<https://www.bilibili.com/video/BV19v4y1G77H/?share_source=copy_web&vd_source=caea3069a97154cbfbfc53254bb144bc> 这个龙良曲老师讲的非常的好，真的是草履虫都能学会，再不跟着学真的很过分了。
+在这个pytorch横着走的时代，再去学习tensorflow是有一点点违背常识的，但是这个老师也开设一样的tensorflow的教程，也很简单，可以跟着学。毕竟你不能保证你的baseline方法不用tensorflow吧。
