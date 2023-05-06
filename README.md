@@ -21,7 +21,7 @@
 <https://www.jiqizhixin.com/articles/2018-06-21-6> \
 <https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes>\
 <https://www.bilibili.com/video/BV19B4y1W76i/?spm_id_from=333.999.0.0>\
-<https://www.bilibili.com/video/BV1w741147Ac/?spm_id_from=333.999.0.0&vd_source=844ad07321d141efd2925ef87faf5326![image](https://user-images.githubusercontent.com/85158648/236624428-4e8c3222-65a9-4794-b4a9-60e269f4f309.png)>\
+<https://www.bilibili.com/video/BV1w741147Ac/?spm_id_from=333.999.0.0&vd_source=844ad07321d141efd2925ef87faf5326![image](https://user-images.githubusercontent.com/85158648/236624428-4e8c3222-65a9-4794-b4a9-60e269f4f309.png)>
 
 
 
@@ -49,9 +49,20 @@ CVer，机市平台，PaperWeekly
 ## 其他
 论文讲解up主-跟李沐学AI<https://space.bilibili.com/1567748478>
 
+
+霹雳吧啦Wz <https://space.bilibili.com/18161609>
+
+啥都会一点的研究生 <https://space.bilibili.com/46880349/?spm_id_from=333.999.0.0
+![Uploading image.png…]()>
+
 cv实战up主-同济子豪兄<https://space.bilibili.com/1900783?spm_id_from=333.337.search-card.all.click>
 
 CS231n 斯坦福李飞飞 <https://www.bilibili.com/video/BV1Yt41157Lb/?spm_id_from=333.999.0.0&vd_source=844ad07321d141efd2925ef87faf5326![image](https://user-images.githubusercontent.com/85158648/236624551-bf1c9577-2173-4e4b-90da-e892d6ce2ca9.png)
+
+[晓唦带你读]《动手学深度学习》(PyTorch版)
+<https://www.bilibili.com/video/BV1HJ41177E9/?spm_id_from=333.999.0.0&vd_source=844ad07321d141efd2925ef87faf5326
+![image](https://user-images.githubusercontent.com/85158648/236624609-8654adf3-ace1-4325-aad5-5c936d3d365e.png)>
+
 
 
 
