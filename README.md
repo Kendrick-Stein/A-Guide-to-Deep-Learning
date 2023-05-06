@@ -8,6 +8,11 @@
 
 ### 网课
 台大教授李宏毅机器学习课程：<https://www.bilibili.com/video/BV1TD4y137mP/?share_source=copy_web&vd_source=caea3069a97154cbfbfc53254bb144bc>
+非常有趣的老师，每年都会更新课件，课程内容与时下潮流结合紧密。
+
+### 网页连接
+机器学习的python实现<https://github.com/lawlite19/MachineLearning_Python>
+
 
 ## 深度学习
 ### 网课
