@@ -31,7 +31,8 @@ cs231n计算机视觉<https://www.bilibili.com/video/BV1nJ411z7fe/?spm_id_from=3
 
 ## 微信公众号
 很多微信公众号都会对时新论文进行解读，同时会定期做推荐，是当下非常便捷有效的获取信息的方式。刷手机的时间就可以看一看，了解一下总比不知道强。
-
+一些比较好的微信公众号：
+CVer，机市平台，PaperWeekly
 
 ## 其他
 论文讲解up主-跟李沐学AI<https://space.bilibili.com/1567748478>
