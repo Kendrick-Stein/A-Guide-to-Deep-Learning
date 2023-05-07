@@ -65,12 +65,17 @@ CS231n 斯坦福李飞飞 <https://www.bilibili.com/video/BV1Yt41157Lb/?spm_id_f
 # 工具书
 这里主要是一些常用的工具书
 
-通过百度网盘分享的文件：Book
+通过百度网盘分享的文件：深度学习/AI/CV电子书
 链接：https://pan.baidu.com/s/1wrZcPjZ9IxmH_ibZ3PEoAw?pwd=8y6k 
 提取码：8y6k 
 复制这段内容打开「百度网盘APP 即可获取」
 
-github传不了 好吧 大家用百度网盘下载吧
+通过百度网盘分享的文件：机器学习电子书
+链接：https://pan.baidu.com/s/13aF2pC7hHQic5yZ-tmpiMw?pwd=yQ3w 
+提取码：yQ3w 
+复制这段内容打开「百度网盘APP 即可获取」
+
+github传不了 fine 大家用百度网盘下载吧
 
 # 感谢
   感谢MCISLAB成员在编辑此文档过程中的付出
