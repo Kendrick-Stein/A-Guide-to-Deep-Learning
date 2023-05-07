@@ -16,6 +16,7 @@
 
 ## 深度学习
 深度学习花书：<https://github.com/exacity/deeplearningbook-chinese>。谁用谁知道，不会有学深度学习还不知道这本书存在的人。
+关于这本书的一些补充材料<https://github.com/MingchaoZhu/DeepLearning>
 
 吴恩达深度学习课程资源：\
 <https://www.jiqizhixin.com/articles/2018-06-21-6> \
