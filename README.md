@@ -2,7 +2,7 @@
 深度学习入门知识指南: 帮助初学者了解入门深度学习，主要包括机器学习，深度学习和数字图像处理的一些相关知识。
 
 ## 学习Python网站
-<https://user-images.githubusercontent.com/85158648/236835689-4dcfe75b-4e1a-4bae-8586-5a699a54e23d.png>
+<https://www.liaoxuefeng.com/wiki/1016959663602400>
 
 
 ## 机器学习
