@@ -1,6 +1,10 @@
 # A-Guide-to-Deep-Learning
 深度学习入门知识指南: 帮助初学者了解入门深度学习，主要包括机器学习，深度学习和数字图像处理的一些相关知识。
 
+## 学习Python网站
+<https://user-images.githubusercontent.com/85158648/236835689-4dcfe75b-4e1a-4bae-8586-5a699a54e23d.png>
+
+
 ## 机器学习
 
 周志华西瓜书：<https://pan.baidu.com/s/1hscnaQC>。机器入门最经典的学习资料，包括比较全面的推导，浅显易懂，适合全文阅读。
